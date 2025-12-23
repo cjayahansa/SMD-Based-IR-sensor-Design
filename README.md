@@ -1,4 +1,3 @@
-# SMD-Based-IR-sensor-Design
 
 # IR Sensor PCB (Altium Designer)
 
